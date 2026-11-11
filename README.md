@@ -14,30 +14,6 @@ Built with Scapy. Works on any `.pcap` file. No live capture needed.
 
 ---
 
-## Table of Contents
-
-- [Why PacketLens](#why-packetlens)
-- [What It Detects](#what-it-detects)
-- [MITRE ATT&CK Mapping](#mitre-attck-mapping)
-- [How It Works](#how-it-works)
-- [Detection Logic In Depth](#detection-logic-in-depth)
-- [Function Reference](#function-reference)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [Project Structure](#project-structure)
-- [Tech Stack](#tech-stack)
-- [Edge Cases Handled](#edge-cases-handled)
-- [Performance Notes](#performance-notes)
-- [Limitations](#limitations)
-- [What I Learned](#what-i-learned)
-- [Future Improvements](#future-improvements)
-- [References](#references)
-- [Part Of SOC Portfolio](#part-of-soc-portfolio)
-- [Author](#author)
-
----
-
 ## Why PacketLens
 
 SOC analysts spend a lot of time opening PCAPs in Wireshark and manually looking for suspicious domains, hosts, and patterns [1]. PacketLens automates the first pass.
