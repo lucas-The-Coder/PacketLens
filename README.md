@@ -53,6 +53,3 @@ This mapping is why the tool is useful in a SOC. It does not just list packets, 
 
 References for this mapping are in the [References](#references) section at the bottom.
 
----
-
-## How It Works
