@@ -50,6 +50,3 @@ PacketLens maps to Command and Control tactics in MITRE ATT&CK [3]:
 | Beaconing detection | **T1071 - Application Layer Protocol** + **T1095 - Non-Application Layer Protocol** | Periodic callbacks to C2, often at fixed intervals, to check for new instructions [3][4]. |
 
 This mapping is why the tool is useful in a SOC. It does not just list packets, it lists packets that map to known adversary behavior.
-
-References for this mapping are in the [References](#references) section at the bottom.
-
